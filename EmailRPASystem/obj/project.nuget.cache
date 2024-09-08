@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2kda0Dv9MI=",
+  "success": true,
+  "projectFilePath": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailRPASystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\openai\\2.0.0-beta.11\\openai.2.0.0-beta.11.nupkg.sha512",
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\openai-dotnet\\8.2.2\\openai-dotnet.8.2.2.nupkg.sha512",
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\system.clientmodel\\1.1.0-beta.5\\system.clientmodel.1.1.0-beta.5.nupkg.sha512",
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Alisson Podgurski\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|c:\\github\\emailrpasystem\\emailrpasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|c:\\github\\emailrpasystem\\emailrpasystem\\emailloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|solutionrelative:emailloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|c:\\github\\emailrpasystem\\emailrpasystem\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|solutionrelative:filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|c:\\github\\emailrpasystem\\emailrpasystem\\emailsummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|solutionrelative:emailsummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|c:\\github\\emailrpasystem\\emailrpasystem\\emailcaptureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|solutionrelative:emailcaptureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|c:\\github\\emailrpasystem\\emailrpasystem\\emailrpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15373620-8D4B-48BE-9F3D-83EF80737ECF}|EmailRPASystem.csproj|solutionrelative:emailrpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailRpa.cs",
+              "DocumentMoniker": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailRpa.cs",
+              "RelativeDocumentMoniker": "EmailRpa.cs",
+              "ToolTip": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailRpa.cs",
+              "RelativeToolTip": "EmailRpa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:44:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailCaptureService.cs",
+              "DocumentMoniker": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailCaptureService.cs",
+              "RelativeDocumentMoniker": "EmailCaptureService.cs",
+              "ToolTip": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailCaptureService.cs",
+              "RelativeToolTip": "EmailCaptureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:44:43.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSummaryService.cs",
+              "DocumentMoniker": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailSummaryService.cs",
+              "RelativeDocumentMoniker": "EmailSummaryService.cs",
+              "ToolTip": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailSummaryService.cs",
+              "RelativeToolTip": "EmailSummaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:40:15.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "FileStorageService.cs",
+              "ToolTip": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\FileStorageService.cs",
+              "RelativeToolTip": "FileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:39:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailLoginService.cs",
+              "DocumentMoniker": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailLoginService.cs",
+              "RelativeDocumentMoniker": "EmailLoginService.cs",
+              "ToolTip": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\EmailLoginService.cs",
+              "RelativeToolTip": "EmailLoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:36:55.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Github\\EmailRPASystem\\EmailRPASystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:36:25.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
